@@ -1,4 +1,4 @@
--- Cleaning data in SQL Queries
+-- Cleaning data With SQL Queries
 
 
 -- View All the Data.
